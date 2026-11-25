@@ -1,0 +1,9 @@
+.env
+config/.env
+.venv/
+myenv/
+__pycache__/
+*.pyc
+vectorstores/
+notebooks/vectorstores/
+data/uploaded_docs/
